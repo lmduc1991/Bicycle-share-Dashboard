@@ -1,6 +1,6 @@
 # Bicycle-share-Dashboard
 
-<img src=https://techcrunch.com/wp-content/uploads/2015/10/vidya.jpg>
+<img src=https://www.christiesrealestate.com/blog/wp-content/uploads/2016/04/Nyc-Bike-Skyline-2.jpg>
 
 ### **Project Overview**
 
