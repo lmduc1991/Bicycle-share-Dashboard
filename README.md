@@ -1,6 +1,6 @@
 # Bicycle-share-Dashboard
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BikeShareToronto_Temperance_St_at_Cloud_Gardens.JPG/260px-BikeShareToronto_Temperance_St_at_Cloud_Gardens.JPG>
+<img src=https://miro.medium.com/v2/resize:fit:4096/1*GJ45uUnc49T-D5LdYn7CfQ.jpeg>
 
 ### **Project Overview**
 
